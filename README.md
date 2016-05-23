@@ -8,7 +8,8 @@
     
     
     
-    ![](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/1.jpg) ![](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/2.jpg)
-    ![](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/3.jpg)
-    ![](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/4.jpg)
-    ![](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/5.jpg)
+    ![image](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/1.jpg)
+    ![image](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/2.jpg)
+    ![image](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/3.jpg)
+    ![image](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/4.jpg)
+    ![image](https://github.com/yq8308/yxq_media_player/raw/master/screenshots/5.jpg)
